@@ -15,11 +15,11 @@ Participantes:
 
 ---
 
-Divisão do Projeto:
+Divisão do Projeto (Primeira parte):
 
 - Ana ->
 - Davi ->
-- Filipe ->
+- Filipe -> Exercicio 3
 - Miguel ->
 - Victor Hugo ->
 - Victor Eduardo ->
