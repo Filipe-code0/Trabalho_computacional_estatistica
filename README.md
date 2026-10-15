@@ -17,7 +17,7 @@ Participantes:
 
 Divisão do Projeto (Primeira parte):
 
-- Ana ->
+- Ana -> Exercicio 2
 - Davi ->
 - Filipe -> Exercicio 3
 - Miguel ->
