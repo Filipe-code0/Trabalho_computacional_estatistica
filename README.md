@@ -1,8 +1,6 @@
 *Trabalho Computacional de Estátistica:*
 
-PDF das questões já está no repositorio.
-
-Linguagem de programação: "Escolher"
+Linguagem de programação: Python
 
 Participantes:
 
@@ -12,16 +10,3 @@ Participantes:
 - Miguel Pereira Borges
 - Victor Hugo Gabriel dos Reis
 - Vitor Eduardo Gonçalves Dumont 
-
----
-
-Divisão do Projeto (Primeira parte):
-
-- Ana -> Exercicio 2
-- Davi ->
-- Filipe -> Exercicio 3
-- Miguel ->
-- Victor Hugo ->
-- Victor Eduardo ->
-
----
