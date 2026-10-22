@@ -1,0 +1,8 @@
+# Evita arquivos csv
+*.csv
+
+# Evita as bibliotecas da env
+.env/
+env/
+.venv/
+venv/
