@@ -1,0 +1,101 @@
+Restaurant ID,Restaurant Name,Country Code,City,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Price range,Aggregate rating,Rating color,Rating text,Votes
+1001,Restaurante Exemplo 1,216,Dallas,Pizza,10,Dollar($),No,No,1,3.6,Yellow,Good,343
+1002,Restaurante Exemplo 2,216,Dallas,American,30,Dollar($),No,No,2,4.5,Dark Green,Excellent,13
+1003,Restaurante Exemplo 3,216,Atlanta,Burger,30,Dollar($),No,Yes,2,3.0,Orange,Average,67
+1004,Restaurante Exemplo 4,216,Orlando,Italian,25,Dollar($),No,No,2,4.2,Green,Very Good,31
+1005,Restaurante Exemplo 5,216,Atlanta,Seafood,50,Dollar($),No,No,3,3.3,Orange,Average,38
+1006,Restaurante Exemplo 6,216,Dallas,Seafood,60,Dollar($),No,No,3,1.8,Red,Poor,58
+1007,Restaurante Exemplo 7,216,Orlando,Burger,30,Dollar($),No,Yes,2,2.2,Red,Poor,86
+1008,Restaurante Exemplo 8,216,Dallas,Mexican,70,Dollar($),No,No,4,4.2,Green,Very Good,266
+1009,Restaurante Exemplo 9,216,Miami,Mexican,70,Dollar($),No,No,4,0.0,White,Not rated,0
+1010,Restaurante Exemplo 10,216,Tampa Bay,Seafood,25,Dollar($),Yes,No,2,3.2,Orange,Average,436
+1011,Restaurante Exemplo 11,216,Tampa Bay,BBQ,100,Dollar($),Yes,Yes,4,3.8,Yellow,Good,99
+1012,Restaurante Exemplo 12,216,Miami,Japanese,50,Dollar($),No,No,3,3.0,Orange,Average,81
+1013,Restaurante Exemplo 13,216,Atlanta,Burger,40,Dollar($),No,No,3,4.0,Green,Very Good,28
+1014,Restaurante Exemplo 14,216,Tampa Bay,Seafood,15,Dollar($),No,No,1,3.7,Yellow,Good,126
+1015,Restaurante Exemplo 15,216,Orlando,Italian,100,Dollar($),Yes,No,4,4.9,Dark Green,Excellent,35
+1016,Restaurante Exemplo 16,216,Miami,Burger,100,Dollar($),No,Yes,4,3.6,Yellow,Good,526
+1017,Restaurante Exemplo 17,216,Orlando,Burger,70,Dollar($),No,No,4,3.6,Yellow,Good,182
+1018,Restaurante Exemplo 18,216,Atlanta,Italian,10,Dollar($),No,No,1,3.7,Yellow,Good,233
+1019,Restaurante Exemplo 19,216,Atlanta,Pizza,10,Dollar($),No,No,1,4.2,Green,Very Good,73
+1020,Restaurante Exemplo 20,216,Dallas,Burger,50,Dollar($),No,No,3,0.0,White,Not rated,0
+1021,Restaurante Exemplo 21,216,Dallas,Mexican,50,Dollar($),No,No,3,4.2,Green,Very Good,519
+1022,Restaurante Exemplo 22,216,Atlanta,Mexican,25,Dollar($),No,Yes,2,3.0,Orange,Average,149
+1023,Restaurante Exemplo 23,216,Atlanta,Mexican,25,Dollar($),Yes,Yes,2,3.5,Yellow,Good,226
+1024,Restaurante Exemplo 24,216,Dallas,Burger,50,Dollar($),No,No,3,4.3,Green,Very Good,72
+1025,Restaurante Exemplo 25,216,Dallas,Pizza,25,Dollar($),Yes,No,2,3.8,Yellow,Good,388
+1026,Restaurante Exemplo 26,216,Atlanta,American,40,Dollar($),No,Yes,3,3.5,Yellow,Good,503
+1027,Restaurante Exemplo 27,216,Dallas,Japanese,25,Dollar($),No,No,2,2.1,Red,Poor,58
+1028,Restaurante Exemplo 28,216,Miami,Pizza,15,Dollar($),Yes,No,1,2.3,Red,Poor,151
+1029,Restaurante Exemplo 29,216,Dallas,Japanese,15,Dollar($),No,Yes,1,3.3,Orange,Average,657
+1030,Restaurante Exemplo 30,216,Tampa Bay,Seafood,10,Dollar($),No,No,1,3.5,Yellow,Good,49
+1031,Restaurante Exemplo 31,216,Miami,BBQ,100,Dollar($),No,Yes,4,4.4,Green,Very Good,793
+1032,Restaurante Exemplo 32,216,Miami,American,60,Dollar($),No,Yes,3,0.0,White,Not rated,0
+1033,Restaurante Exemplo 33,216,Atlanta,Pizza,50,Dollar($),No,Yes,3,3.7,Yellow,Good,634
+1034,Restaurante Exemplo 34,216,Miami,Mexican,25,Dollar($),No,Yes,2,4.9,Dark Green,Excellent,134
+1035,Restaurante Exemplo 35,216,Orlando,Mexican,70,Dollar($),No,Yes,4,4.7,Dark Green,Excellent,224
+1036,Restaurante Exemplo 36,216,Orlando,Pizza,20,Dollar($),Yes,No,2,4.1,Green,Very Good,283
+1037,Restaurante Exemplo 37,216,Orlando,Burger,15,Dollar($),No,No,1,3.6,Yellow,Good,24
+1038,Restaurante Exemplo 38,216,Miami,Seafood,25,Dollar($),No,No,2,2.1,Red,Poor,88
+1039,Restaurante Exemplo 39,216,Atlanta,Burger,10,Dollar($),No,No,1,3.0,Orange,Average,280
+1040,Restaurante Exemplo 40,216,Orlando,Mexican,20,Dollar($),No,No,2,3.0,Orange,Average,84
+1041,Restaurante Exemplo 41,216,Atlanta,Japanese,25,Dollar($),No,Yes,2,3.8,Yellow,Good,594
+1042,Restaurante Exemplo 42,216,Tampa Bay,Japanese,20,Dollar($),No,Yes,2,4.1,Green,Very Good,258
+1043,Restaurante Exemplo 43,216,Dallas,American,100,Dollar($),No,No,4,0.0,White,Not rated,0
+1044,Restaurante Exemplo 44,216,Atlanta,Italian,20,Dollar($),No,Yes,2,4.1,Green,Very Good,15
+1045,Restaurante Exemplo 45,216,Miami,Burger,50,Dollar($),No,Yes,3,4.2,Green,Very Good,543
+1046,Restaurante Exemplo 46,216,Orlando,Japanese,20,Dollar($),No,No,2,4.0,Green,Very Good,538
+1047,Restaurante Exemplo 47,216,Tampa Bay,American,25,Dollar($),No,Yes,2,3.1,Orange,Average,48
+1048,Restaurante Exemplo 48,216,Dallas,Mexican,40,Dollar($),Yes,Yes,3,3.2,Orange,Average,112
+1049,Restaurante Exemplo 49,216,Miami,Japanese,15,Dollar($),No,No,1,4.1,Green,Very Good,856
+1050,Restaurante Exemplo 50,216,Dallas,Seafood,10,Dollar($),Yes,No,1,4.4,Green,Very Good,35
+1051,Restaurante Exemplo 51,216,Atlanta,Japanese,25,Dollar($),No,Yes,2,4.4,Green,Very Good,148
+1052,Restaurante Exemplo 52,216,Miami,Mexican,30,Dollar($),No,Yes,2,4.9,Dark Green,Excellent,5
+1053,Restaurante Exemplo 53,216,Atlanta,Seafood,25,Dollar($),No,No,2,3.1,Orange,Average,248
+1054,Restaurante Exemplo 54,216,Tampa Bay,Japanese,100,Dollar($),No,No,4,4.1,Green,Very Good,92
+1055,Restaurante Exemplo 55,216,Orlando,Seafood,25,Dollar($),No,No,2,3.8,Yellow,Good,135
+1056,Restaurante Exemplo 56,216,Dallas,BBQ,25,Dollar($),No,No,2,3.7,Yellow,Good,161
+1057,Restaurante Exemplo 57,216,Miami,Italian,70,Dollar($),Yes,No,4,3.0,Orange,Average,27
+1058,Restaurante Exemplo 58,216,Atlanta,American,25,Dollar($),No,No,2,4.1,Green,Very Good,68
+1059,Restaurante Exemplo 59,216,Miami,Mexican,15,Dollar($),No,No,1,3.3,Orange,Average,156
+1060,Restaurante Exemplo 60,216,Atlanta,Japanese,20,Dollar($),No,No,2,3.5,Yellow,Good,271
+1061,Restaurante Exemplo 61,216,Atlanta,BBQ,40,Dollar($),Yes,No,3,2.7,Orange,Average,17
+1062,Restaurante Exemplo 62,216,Tampa Bay,Japanese,50,Dollar($),No,No,3,3.9,Yellow,Good,231
+1063,Restaurante Exemplo 63,216,Dallas,Seafood,100,Dollar($),No,No,4,2.1,Red,Poor,499
+1064,Restaurante Exemplo 64,216,Dallas,Seafood,25,Dollar($),No,No,2,3.8,Yellow,Good,149
+1065,Restaurante Exemplo 65,216,Dallas,Pizza,20,Dollar($),No,Yes,2,4.8,Dark Green,Excellent,70
+1066,Restaurante Exemplo 66,216,Miami,American,10,Dollar($),No,No,1,3.7,Yellow,Good,62
+1067,Restaurante Exemplo 67,216,Tampa Bay,Japanese,10,Dollar($),No,No,1,3.6,Yellow,Good,720
+1068,Restaurante Exemplo 68,216,Tampa Bay,American,25,Dollar($),No,No,2,2.7,Orange,Average,172
+1069,Restaurante Exemplo 69,216,Dallas,American,100,Dollar($),No,No,4,2.9,Orange,Average,50
+1070,Restaurante Exemplo 70,216,Tampa Bay,Burger,15,Dollar($),Yes,No,1,2.6,Orange,Average,262
+1071,Restaurante Exemplo 71,216,Orlando,Japanese,25,Dollar($),No,Yes,2,4.4,Green,Very Good,107
+1072,Restaurante Exemplo 72,216,Dallas,Pizza,50,Dollar($),No,No,3,4.9,Dark Green,Excellent,18
+1073,Restaurante Exemplo 73,216,Dallas,Mexican,25,Dollar($),Yes,No,2,2.5,Orange,Average,60
+1074,Restaurante Exemplo 74,216,Orlando,Burger,25,Dollar($),No,No,2,3.6,Yellow,Good,161
+1075,Restaurante Exemplo 75,216,Atlanta,Seafood,20,Dollar($),No,No,2,2.6,Orange,Average,841
+1076,Restaurante Exemplo 76,216,Dallas,Pizza,100,Dollar($),No,Yes,4,3.7,Yellow,Good,60
+1077,Restaurante Exemplo 77,216,Atlanta,Italian,15,Dollar($),No,No,1,3.0,Orange,Average,402
+1078,Restaurante Exemplo 78,216,Tampa Bay,Pizza,70,Dollar($),No,No,4,4.8,Dark Green,Excellent,109
+1079,Restaurante Exemplo 79,216,Miami,Seafood,40,Dollar($),No,No,3,2.1,Red,Poor,312
+1080,Restaurante Exemplo 80,216,Orlando,Italian,40,Dollar($),No,No,3,3.2,Orange,Average,147
+1081,Restaurante Exemplo 81,1,New Delhi,Japanese,1200,Indian Rupees(Rs.),No,No,4,4.7,Dark Green,Excellent,74
+1082,Restaurante Exemplo 82,1,New Delhi,Italian,1200,Indian Rupees(Rs.),No,No,4,4.3,Green,Very Good,64
+1083,Restaurante Exemplo 83,1,New Delhi,Mexican,300,Indian Rupees(Rs.),No,No,4,1.9,Red,Poor,186
+1084,Restaurante Exemplo 84,1,New Delhi,American,1200,Indian Rupees(Rs.),Yes,Yes,4,2.9,Orange,Average,264
+1085,Restaurante Exemplo 85,1,New Delhi,Italian,800,Indian Rupees(Rs.),No,No,4,2.8,Orange,Average,277
+1086,Restaurante Exemplo 86,1,New Delhi,Pizza,1200,Indian Rupees(Rs.),No,Yes,4,4.1,Green,Very Good,83
+1087,Restaurante Exemplo 87,1,New Delhi,Seafood,500,Indian Rupees(Rs.),No,No,4,3.2,Orange,Average,58
+1088,Restaurante Exemplo 88,1,New Delhi,Seafood,800,Indian Rupees(Rs.),No,Yes,4,3.8,Yellow,Good,989
+1089,Restaurante Exemplo 89,1,New Delhi,Seafood,500,Indian Rupees(Rs.),No,Yes,4,4.9,Dark Green,Excellent,85
+1090,Restaurante Exemplo 90,1,New Delhi,Seafood,1200,Indian Rupees(Rs.),No,No,4,1.8,Red,Poor,32
+1091,Restaurante Exemplo 91,1,New Delhi,Pizza,300,Indian Rupees(Rs.),No,No,4,4.3,Green,Very Good,77
+1092,Restaurante Exemplo 92,1,New Delhi,Seafood,300,Indian Rupees(Rs.),Yes,Yes,4,4.8,Dark Green,Excellent,46
+1093,Restaurante Exemplo 93,1,New Delhi,Mexican,1200,Indian Rupees(Rs.),No,No,4,3.8,Yellow,Good,238
+1094,Restaurante Exemplo 94,1,New Delhi,Japanese,800,Indian Rupees(Rs.),No,No,4,0.0,White,Not rated,0
+1095,Restaurante Exemplo 95,1,New Delhi,Mexican,300,Indian Rupees(Rs.),No,Yes,4,3.6,Yellow,Good,742
+1096,Restaurante Exemplo 96,1,New Delhi,BBQ,300,Indian Rupees(Rs.),No,Yes,4,4.2,Green,Very Good,47
+1097,Restaurante Exemplo 97,1,New Delhi,Seafood,1200,Indian Rupees(Rs.),No,No,4,2.7,Orange,Average,23
+1098,Restaurante Exemplo 98,1,New Delhi,Burger,500,Indian Rupees(Rs.),No,No,4,3.0,Orange,Average,143
+1099,Restaurante Exemplo 99,1,New Delhi,Seafood,500,Indian Rupees(Rs.),No,No,4,4.7,Dark Green,Excellent,398
+1100,Restaurante Exemplo 100,1,New Delhi,BBQ,1200,Indian Rupees(Rs.),No,No,4,4.2,Green,Very Good,719
