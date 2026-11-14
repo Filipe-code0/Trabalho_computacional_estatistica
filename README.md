@@ -10,3 +10,10 @@ Participantes:
 - Miguel Pereira Borges
 - Victor Hugo Gabriel dos Reis
 - Vitor Eduardo Gonçalves Dumont 
+
+## Como executar
+
+1. Instale as dependências: `pip install -r requirements.txt`
+2. Abra `resolucoes.ipynb` e execute todas as células em ordem (*Run All*).
+
+O conjunto de dados da Questão 3 (`Zomato_Restauran_Dataset.csv`) fica na raiz do repositório.

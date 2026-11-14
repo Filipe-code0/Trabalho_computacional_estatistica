@@ -1,5 +1,7 @@
 # Evita arquivos csv
 *.csv
+# ...exceto o conjunto de dados C1, que deve ser entregue com o trabalho
+!Zomato_Restauran_Dataset.csv
 
 # Evita as bibliotecas da env
 .env/
